@@ -1,5 +1,7 @@
 # youtube_clone
 
+![homepage](https://user-images.githubusercontent.com/115658787/209850626-83fda172-0677-4970-8a9f-6e1fcbceae66.PNG)
+
 A new Flutter project.
 
 ## Getting Started
